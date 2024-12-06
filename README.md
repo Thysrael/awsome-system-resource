@@ -7,30 +7,27 @@ date: 2024-01-24 00:06:53
 
 # 书籍
 
-- [C++ 语言的设计与演化英文版](https://github.com/Thysrael/Resource/blob/main/books/The%20Design%20and%20Evolution%20of%20C%2B%2B-en.pdf)，[C++ 语言的设计与演化中文版](https://github.com/Thysrael/Resource/blob/main/books/The%20Design%20and%20Evolution%20of%20C%2B%2B-zh.pdf)
-- [C++ Primer Plus 第六版中文版](https://github.com/Thysrael/Resource/blob/main/books/C%2B%2B%20Primer%20plus-6-zh.pdf)
-- [science writing for non-native engish speakers](https://github.com/Thysrael/Resource/blob/main/books/science_writing_for_non-native_engish_speakers.pdf)
-- [The UNIX-HATERS Handbook](https://github.com/Thysrael/Resource/blob/main/books/The%20UNIX-HATERS%20Handbook.pdf)
-- [计算机程序的构造和解释](https://github.com/Thysrael/Resource/blob/main/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A.pdf)
-- [LaTeX 入门](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E5%85%A5%E9%97%A8.pdf)
-- [一份（不太）简短 的 LaTeX 2ε](https://github.com/Thysrael/Resource/blob/main/books/%E4%B8%80%E4%BB%BD%EF%BC%88%E4%B8%8D%E5%A4%AA%EF%BC%89%E7%AE%80%E7%9F%AD%E7%9A%84%20LATEX%202%CE%B5.pdf)
-- [LaTeX 排版系统简介](https://github.com/Thysrael/Resource/blob/main/books/LaTeX%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F%E7%AE%80%E4%BB%8B.pdf)
-- [Vim 实用技巧](https://github.com/Thysrael/Resource/blob/main/books/Vim%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.pdf)
-- [RISCV 小册子](https://github.com/Thysrael/Resource/blob/main/books/RISC-V%20%E6%89%8B%E5%86%8C.pdf)
-- [超标量处理器设计](https://github.com/Thysrael/Resource/blob/main/books/%E8%B6%85%E6%A0%87%E9%87%8F%E5%A4%84%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1.pdf)
-- [博士研磨](https://github.com/Thysrael/Resource/blob/main/books/phd-grind-chn.pdf)
-- [GNUPlot 中文教程](https://github.com/Thysrael/Resource/blob/main/books/gnuplot-zh.pdf)
-- [不安的哲学](https://github.com/Thysrael/Resource/blob/main/books/%E4%B8%8D%E5%AE%89%E7%9A%84%E5%93%B2%E5%AD%A6.pdf)
-- [图解Linux内核（基于6.x）](https://github.com/Thysrael/Resource/blob/main/books/%E5%9B%BE%E8%A7%A3Linux%E5%86%85%E6%A0%B8%EF%BC%88%E5%9F%BA%E4%BA%8E6.x%EF%BC%89.pdf)
+- [C++ 语言的设计与演化英文版](https://github.com/Thysrael/awsome-system-resource/blob/main/books/The%20Design%20and%20Evolution%20of%20C%2B%2B-en.pdf)，[C++ 语言的设计与演化中文版](https://github.com/Thysrael/awsome-system-resource/blob/main/books/The%20Design%20and%20Evolution%20of%20C%2B%2B-zh.pdf)
+- [science writing for non-native engish speakers](https://github.com/Thysrael/awsome-system-resource/blob/main/books/science_writing_for_non-native_engish_speakers.pdf)
+- [The UNIX-HATERS Handbook](https://github.com/Thysrael/awsome-system-resource/blob/main/books/The%20UNIX-HATERS%20Handbook.pdf)
+- [计算机程序的构造和解释](https://github.com/Thysrael/awsome-system-resource/blob/main/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A.pdf)
+- [LaTeX 入门](https://github.com/Thysrael/awsome-system-resource/blob/main/books/LaTeX%E5%85%A5%E9%97%A8.pdf)
+- [一份（不太）简短 的 LaTeX 2ε](https://github.com/Thysrael/awsome-system-resource/blob/main/books/%E4%B8%80%E4%BB%BD%EF%BC%88%E4%B8%8D%E5%A4%AA%EF%BC%89%E7%AE%80%E7%9F%AD%E7%9A%84%20LATEX%202%CE%B5.pdf)
+- [LaTeX 排版系统简介](https://github.com/Thysrael/awsome-system-resource/blob/main/books/LaTeX%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F%E7%AE%80%E4%BB%8B.pdf)
+- [Vim 实用技巧](https://github.com/Thysrael/awsome-system-resource/blob/main/books/Vim%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.pdf)
+- [RISCV 小册子](https://github.com/Thysrael/awsome-system-resource/blob/main/books/RISC-V%20%E6%89%8B%E5%86%8C.pdf)
+- [博士研磨](https://github.com/Thysrael/awsome-system-resource/blob/main/books/phd-grind-chn.pdf)
+- [GNUPlot 中文教程](https://github.com/Thysrael/awsome-system-resource/blob/main/books/gnuplot-zh.pdf)
+- [不安的哲学](https://github.com/Thysrael/awsome-system-resource/blob/main/books/%E4%B8%8D%E5%AE%89%E7%9A%84%E5%93%B2%E5%AD%A6.pdf)
 
 # 手册
 
-- [The Comprehensive LATEX Symbol List](https://github.com/Thysrael/Resource/blob/main/manuals/The%20Comprehensive%20LATEX%20Symbol%20List.pdf)
-- [The LaTeX 2ε Sources](https://github.com/Thysrael/Resource/blob/main/manuals/The%20LaTeX%202%CE%B5%20Sources.pdf)
-- [RISCV 特权架构中文版](https://github.com/Thysrael/Resource/blob/main/manuals/riscv-privileged-cn.pdf)
-- [RISCV 非特权级架构中文版](https://github.com/Thysrael/Resource/blob/main/manuals/riscv-spec-cn.pdf)
-- [Armv8-A 架构开发者指南](https://github.com/Thysrael/Resource/blob/main/manuals/Armv8-CortexA.pdf)
-- [Armv8-A 指令集](https://github.com/Thysrael/Resource/blob/main/manuals/Armv8-A%20Instruction%20Set%20Architecture.pdf)
+- [The Comprehensive LATEX Symbol List](https://github.com/Thysrael/awsome-system-resource/blob/main/manuals/The%20Comprehensive%20LATEX%20Symbol%20List.pdf)
+- [The LaTeX 2ε Sources](https://github.com/Thysrael/awsome-system-resource/blob/main/manuals/The%20LaTeX%202%CE%B5%20Sources.pdf)
+- [RISCV 特权架构中文版](https://github.com/Thysrael/awsome-system-resource/blob/main/manuals/riscv-privileged-cn.pdf)
+- [RISCV 非特权级架构中文版](https://github.com/Thysrael/awsome-system-resource/blob/main/manuals/riscv-spec-cn.pdf)
+- [Armv8-A 架构开发者指南](https://github.com/Thysrael/awsome-system-resource/blob/main/manuals/Armv8-CortexA.pdf)
+- [Armv8-A 指令集](https://github.com/Thysrael/awsome-system-resource/blob/main/manuals/Armv8-A%20Instruction%20Set%20Architecture.pdf)
 
 # 博客
 
