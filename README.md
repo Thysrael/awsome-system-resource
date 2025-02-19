@@ -93,7 +93,10 @@ date: 2024-01-24 00:06:53
 - [Sparse Tensor Accelerators: Abstraction and Modeling](https://accelergy.mit.edu/isca2021/background.part1.pdf)
 - [ELI5: FlashAttention](https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad)
 - [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/index.html)
-- [What’s the Difference Between the ext4 Journal Data Modes?](https://www.baeldung.com/linux/ext-journal-modes)
+- [What's the Difference Between the ext4 Journal Data Modes?](https://www.baeldung.com/linux/ext-journal-modes)
+- [In Depth Understanding of Attention Mechanism](https://medium.com/@funcry/understanding-attention-mechanism-in-depth-550f59ae1c19)
+- [Different implementations of the ubiquitous convolution](https://medium.com/@sundarramanp2000/different-implementations-of-the-ubiquitous-convolution-6a9269dbe77f)
+- [Is Furiosa’s chip architecture actually innovative? Or just a fancy systolic array?](https://furiosa.ai/blog/is-furiosas-chip-architecture-actually-innovative-or-just-a-fancy-systolic-array)
 
 # 网站
 
@@ -106,6 +109,7 @@ date: 2024-01-24 00:06:53
 - [颜值打分器](https://attractivenesstest.com/)
 - [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 - [傅里叶变换交互式入门](https://www.jezzamon.com/fourier/zh-cn.html)
+- [Connected Paper](https://www.connectedpapers.com/)
 
 # 视频
 
