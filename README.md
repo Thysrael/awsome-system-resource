@@ -28,6 +28,7 @@ date: 2024-01-24 00:06:53
 - [RISCV 非特权级架构中文版](https://github.com/Thysrael/awsome-system-resource/blob/master/manuals/riscv-spec-cn.pdf)
 - [Armv8-A 架构开发者指南](https://github.com/Thysrael/awsome-system-resource/blob/master/manuals/Armv8-CortexA.pdf)
 - [Armv8-A 指令集](https://github.com/Thysrael/awsome-system-resource/blob/master/manuals/Armv8-A%20Instruction%20Set%20Architecture.pdf)
+- [IPU Programmer’s Guide](https://docs.graphcore.ai/projects/ipu-programmers-guide/)
 
 # 博客
 
@@ -77,13 +78,22 @@ date: 2024-01-24 00:06:53
 - [LuaJIT 源码结构梳理](https://blog.csdn.net/qq_42570601/article/details/120825321)
 - [OpenResty 从入门到实战](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/OpenResty%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98)
 - [SSH Port Forwarding (SSH Tunneling): How-To Guide](https://builtin.com/software-engineering-perspectives/ssh-port-forwarding)
-- [Linux 虚拟化 KVM-Qemu 分析](https://www.cnblogs.com/LoyenWang?page=1)
 - [Virtio devices and drivers overview: The headjack and the phone](https://www.redhat.com/en/blog/virtio-devices-and-drivers-overview-headjack-and-phone)
 - [Linux Tun/Tap 介绍](https://www.zhaohuabing.com/post/2020-02-24-linux-taptun/)
 - [Linux 虚拟化 KVM-Qemu 分析](https://www.cnblogs.com/LoyenWang?page=1)
-- [Virtio devices and drivers overview: The headjack and the phone](https://www.redhat.com/en/blog/virtio-devices-and-drivers-overview-headjack-and-phone)
-- [Linux Tun/Tap 介绍](https://www.zhaohuabing.com/post/2020-02-24-linux-taptun/)
 - [深入了解服务器 CPU 的型号、代际、片内与片间互联架构](https://www.51cto.com/article/778330.html)
+- [SPEC CPU 2006 性能测试](https://jia.je/software/2023/08/02/spec-cpu-2006/)
+- [GDB: A quick guide to make your debugging easier](https://johnnysswlab.com/gdb-a-quick-guide-to-make-your-debugging-easier/)
+- [LLM Inference Series](https://medium.com/@plienhar/llm-inference-series-1-introduction-9c78e56ef49d)
+- [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f#60204039b0d14e6fac0b5c3a65b78d00)
+- [Getting started with bare-metal assembly](https://johv.dk/blog/bare-metal-assembly-tutorial)
+- [What is Firmware](https://www.fortinet.com/resources/cyberglossary/what-is-firmware)
+- [简单易懂的张量求导和计算图讲解](https://juejin.cn/post/6954237535379783710)
+- [A basic introduction to NumPy's einsum](https://ajcr.net/Basic-guide-to-einsum/)
+- [Sparse Tensor Accelerators: Abstraction and Modeling](https://accelergy.mit.edu/isca2021/background.part1.pdf)
+- [ELI5: FlashAttention](https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad)
+- [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/index.html)
+- [What’s the Difference Between the ext4 Journal Data Modes?](https://www.baeldung.com/linux/ext-journal-modes)
 
 # 网站
 
@@ -92,6 +102,10 @@ date: 2024-01-24 00:06:53
 - [QT 快速入门系列教程](https://wizardforcel.gitbooks.io/qt-beginning/content/1.html)
 - [卡通图标](https://www.veryicon.com/icons/cartoon/childhood-icon/)
 - [X86 指令速查](https://www.felixcloutier.com/x86)
+- [Hot Chips](https://hotchips.org/)
+- [颜值打分器](https://attractivenesstest.com/)
+- [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+- [傅里叶变换交互式入门](https://www.jezzamon.com/fourier/zh-cn.html)
 
 # 视频
 
