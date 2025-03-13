@@ -97,6 +97,11 @@ date: 2024-01-24 00:06:53
 - [In Depth Understanding of Attention Mechanism](https://medium.com/@funcry/understanding-attention-mechanism-in-depth-550f59ae1c19)
 - [Different implementations of the ubiquitous convolution](https://medium.com/@sundarramanp2000/different-implementations-of-the-ubiquitous-convolution-6a9269dbe77f)
 - [Is Furiosa’s chip architecture actually innovative? Or just a fancy systolic array?](https://furiosa.ai/blog/is-furiosas-chip-architecture-actually-innovative-or-just-a-fancy-systolic-array)
+- [A Visual Guide to LLM](https://newsletter.maartengrootendorst.com/archive?sort=new)
+- [深度学习的分布式训练与集合通信](https://www.hiascend.com/zh/developer/techArticles/20241122-1)
+- [Advanced RAG Techniques: an Illustrated Overview](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
+- [Building Python Packages](https://medium.com/@ebimsv/building-python-packages-07fbfbb959a9)
+- [模糊分离与合并边界的 chunked-prefills](https://zhuanlan.zhihu.com/p/710165390)
 
 # 网站
 
