@@ -102,7 +102,7 @@ date: 2024-01-24 00:06:53
 - [Advanced RAG Techniques: an Illustrated Overview](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
 - [Building Python Packages](https://medium.com/@ebimsv/building-python-packages-07fbfbb959a9)
 - [模糊分离与合并边界的 chunked-prefills](https://zhuanlan.zhihu.com/p/710165390)
-
+- [Async Programming in Python: Unlocking Efficiency in Your Code](https://medium.com/@piyushkashyap045/async-programming-in-python-unlocking-efficiency-in-your-code-0e428061988a)
 # 网站
 
 - [DistroWatch Linux](https://distrowatch.com/)
@@ -115,6 +115,7 @@ date: 2024-01-24 00:06:53
 - [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 - [傅里叶变换交互式入门](https://www.jezzamon.com/fourier/zh-cn.html)
 - [Connected Paper](https://www.connectedpapers.com/)
+- [余日摇滚](https://archive.casouri.cc/rock/day/index.html)
 
 # 视频
 
