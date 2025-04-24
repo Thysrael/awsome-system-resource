@@ -103,6 +103,9 @@ date: 2024-01-24 00:06:53
 - [Building Python Packages](https://medium.com/@ebimsv/building-python-packages-07fbfbb959a9)
 - [模糊分离与合并边界的 chunked-prefills](https://zhuanlan.zhihu.com/p/710165390)
 - [Async Programming in Python: Unlocking Efficiency in Your Code](https://medium.com/@piyushkashyap045/async-programming-in-python-unlocking-efficiency-in-your-code-0e428061988a)
+- [线性规划问题](https://www.cnblogs.com/sinkinben/p/14776297.html)
+- [Whats the intuition behind stacking attention layers?](https://www.reddit.com/r/MachineLearning/comments/146dgq1/d_whats_the_intuition_behind_stacking_attention/)
+
 # 网站
 
 - [DistroWatch Linux](https://distrowatch.com/)
@@ -116,6 +119,7 @@ date: 2024-01-24 00:06:53
 - [傅里叶变换交互式入门](https://www.jezzamon.com/fourier/zh-cn.html)
 - [Connected Paper](https://www.connectedpapers.com/)
 - [余日摇滚](https://archive.casouri.cc/rock/day/index.html)
+- [eXplain](https://magcius.github.io/xplain/article/index.html)
 
 # 视频
 
