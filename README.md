@@ -19,7 +19,7 @@ date: 2024-01-24 00:06:53
 - [博士研磨](https://github.com/Thysrael/awsome-system-resource/blob/master/books/phd-grind-chn.pdf)
 - [GNUPlot 中文教程](https://github.com/Thysrael/awsome-system-resource/blob/master/books/gnuplot-zh.pdf)
 - [不安的哲学](https://github.com/Thysrael/awsome-system-resource/blob/master/books/%E4%B8%8D%E5%AE%89%E7%9A%84%E5%93%B2%E5%AD%A6.pdf)
-- [被讨厌的勇气]()
+- [被讨厌的勇气](https://github.com/Thysrael/awsome-system-resource/blob/master/books/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94.epub)
 
 # 手册
 
