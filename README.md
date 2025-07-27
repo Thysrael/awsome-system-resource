@@ -19,6 +19,7 @@ date: 2024-01-24 00:06:53
 - [博士研磨](https://github.com/Thysrael/awsome-system-resource/blob/master/books/phd-grind-chn.pdf)
 - [GNUPlot 中文教程](https://github.com/Thysrael/awsome-system-resource/blob/master/books/gnuplot-zh.pdf)
 - [不安的哲学](https://github.com/Thysrael/awsome-system-resource/blob/master/books/%E4%B8%8D%E5%AE%89%E7%9A%84%E5%93%B2%E5%AD%A6.pdf)
+- [被讨厌的勇气]()
 
 # 手册
 
@@ -105,6 +106,8 @@ date: 2024-01-24 00:06:53
 - [Async Programming in Python: Unlocking Efficiency in Your Code](https://medium.com/@piyushkashyap045/async-programming-in-python-unlocking-efficiency-in-your-code-0e428061988a)
 - [线性规划问题](https://www.cnblogs.com/sinkinben/p/14776297.html)
 - [Whats the intuition behind stacking attention layers?](https://www.reddit.com/r/MachineLearning/comments/146dgq1/d_whats_the_intuition_behind_stacking_attention/)
+- [Locality Sensitive Hashing (LSH): The Illustrated Guide](https://www.pinecone.io/learn/series/faiss/locality-sensitive-hashing/)
+- [MVC，MVP 和 MVVM 的图示](https://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 
 # 网站
 
