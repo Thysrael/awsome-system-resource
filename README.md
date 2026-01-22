@@ -19,7 +19,6 @@ date: 2024-01-24 00:06:53
 - [博士研磨](https://github.com/Thysrael/awsome-system-resource/blob/master/books/phd-grind-chn.pdf)
 - [GNUPlot 中文教程](https://github.com/Thysrael/awsome-system-resource/blob/master/books/gnuplot-zh.pdf)
 - [不安的哲学](https://github.com/Thysrael/awsome-system-resource/blob/master/books/%E4%B8%8D%E5%AE%89%E7%9A%84%E5%93%B2%E5%AD%A6.pdf)
-- [被讨厌的勇气](https://github.com/Thysrael/awsome-system-resource/blob/master/books/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94.epub)
 
 # 手册
 
@@ -98,16 +97,8 @@ date: 2024-01-24 00:06:53
 - [In Depth Understanding of Attention Mechanism](https://medium.com/@funcry/understanding-attention-mechanism-in-depth-550f59ae1c19)
 - [Different implementations of the ubiquitous convolution](https://medium.com/@sundarramanp2000/different-implementations-of-the-ubiquitous-convolution-6a9269dbe77f)
 - [Is Furiosa’s chip architecture actually innovative? Or just a fancy systolic array?](https://furiosa.ai/blog/is-furiosas-chip-architecture-actually-innovative-or-just-a-fancy-systolic-array)
-- [A Visual Guide to LLM](https://newsletter.maartengrootendorst.com/archive?sort=new)
-- [深度学习的分布式训练与集合通信](https://www.hiascend.com/zh/developer/techArticles/20241122-1)
-- [Advanced RAG Techniques: an Illustrated Overview](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
-- [Building Python Packages](https://medium.com/@ebimsv/building-python-packages-07fbfbb959a9)
-- [模糊分离与合并边界的 chunked-prefills](https://zhuanlan.zhihu.com/p/710165390)
-- [Async Programming in Python: Unlocking Efficiency in Your Code](https://medium.com/@piyushkashyap045/async-programming-in-python-unlocking-efficiency-in-your-code-0e428061988a)
-- [线性规划问题](https://www.cnblogs.com/sinkinben/p/14776297.html)
-- [Whats the intuition behind stacking attention layers?](https://www.reddit.com/r/MachineLearning/comments/146dgq1/d_whats_the_intuition_behind_stacking_attention/)
-- [Locality Sensitive Hashing (LSH): The Illustrated Guide](https://www.pinecone.io/learn/series/faiss/locality-sensitive-hashing/)
-- [MVC，MVP 和 MVVM 的图示](https://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+- [为你的网站加入Google Analytics](https://www.nielsen.tw/seo/google-analytics/)
+- [Learn CUTLASS the hard way!](https://www.kapilsharma.dev/posts/learn-cutlass-the-hard-way/)
 
 # 网站
 
@@ -121,8 +112,6 @@ date: 2024-01-24 00:06:53
 - [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 - [傅里叶变换交互式入门](https://www.jezzamon.com/fourier/zh-cn.html)
 - [Connected Paper](https://www.connectedpapers.com/)
-- [余日摇滚](https://archive.casouri.cc/rock/day/index.html)
-- [eXplain](https://magcius.github.io/xplain/article/index.html)
 
 # 视频
 
